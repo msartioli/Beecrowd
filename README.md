@@ -1,8 +1,16 @@
+<p align="center">
+  <img src="https://i.imgur.com/L8zJ9Ly.png" alt="Beecrowd Java Banner" width="100%">
+</p>
+
 # Beecrowd Java
 
 Repositório criado para organizar minhas soluções dos desafios da plataforma **Beecrowd**, utilizando a linguagem **Java**.
 
-O objetivo principal deste projeto é praticar lógica de programação, sintaxe Java, entrada e saída de dados, estruturas condicionais, laços de repetição, arrays, métodos e resolução de problemas.
+O objetivo principal deste projeto é praticar **lógica de programação**, **sintaxe Java**, **entrada e saída de dados**, **estruturas condicionais**, **laços de repetição**, **arrays**, **métodos** e **resolução de problemas**.
+
+---
+
+## Sobre o projeto
 
 ```java
 public class BeecrowdJava {
