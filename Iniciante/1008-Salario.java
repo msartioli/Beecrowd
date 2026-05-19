@@ -1,6 +1,6 @@
 public class 1008-Salario {
     psvm(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);   
         int numeroFuncionario = scanner.nextInt();  
         int numeroHorasTrabalhadas = scanner.nextInt();
         int valorAreceber = scanner.nextInt();
